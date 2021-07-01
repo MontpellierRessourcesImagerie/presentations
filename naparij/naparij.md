@@ -218,7 +218,7 @@ p.disconnect()
 - Use the ImageJ-python bridge with other python software
     - clustering / ML / DL 
     - give DL4Mic more control over the python process
-- IJPB can also be used to connect to a distant IPython via ssh-tunneling
+- the jupyter-client can also be used to connect to a distant IPython via ssh-tunneling
     - run on server, in the cloud or on a cluster
 
 </small>
