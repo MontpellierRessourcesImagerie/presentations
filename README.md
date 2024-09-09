@@ -1,4 +1,5 @@
 # Presentations
+* 09.09.2024 - [Behavior analysis of mice & Analysis of the structure of myotubes](https://github.com/MontpellierRessourcesImagerie/presentations/releases/download/v1.3/Presentation-INRAe.pdf) + associated [mice mask](https://github.com/MontpellierRessourcesImagerie/presentations/releases/download/v1.3/clip-mask-mice.mp4).
 * 05.03.2024 - [The MRI-CIA service + Intro to QuPath](https://github.com/MontpellierRessourcesImagerie/presentations/releases/download/v1.2/Presentation.IRCM.final.pdf)
 * 12.05.2022 - [The MRI Image Analysis Service](https://github.com/MontpellierRessourcesImagerie/presentations/releases/download/v1.1/presentation.pdf)
 * 07.12.2022 - [What can the MRI image analysis service
