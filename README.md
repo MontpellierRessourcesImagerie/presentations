@@ -1,4 +1,5 @@
 # Presentations
+* 24.10.2024 - [Open-source bio-image analysis using surface meshes](https://github.com/MontpellierRessourcesImagerie/presentations/releases/download/v1.4/diapos-i2k-2024.pdf)
 * 23.10.2024 - [Width Profile Tools](https://github.com/user-attachments/files/17482261/i2k2024-width-profile-tools.pdf). See [Width-Profile-Tools wiki](https://github.com/MontpellierRessourcesImagerie/imagej_macros_and_scripts/wiki/Width-Profile-Tools) for installation of the tools and for datasets.
 * 09.09.2024 - [Behavior analysis of mice & Analysis of the structure of myotubes](https://github.com/MontpellierRessourcesImagerie/presentations/releases/download/v1.3/Presentation-INRAe.pdf) + associated [mice mask](https://github.com/MontpellierRessourcesImagerie/presentations/releases/download/v1.3/clip-mask-mice.mp4).
 * 05.03.2024 - [The MRI-CIA service + Intro to QuPath](https://github.com/MontpellierRessourcesImagerie/presentations/releases/download/v1.2/Presentation.IRCM.final.pdf)
