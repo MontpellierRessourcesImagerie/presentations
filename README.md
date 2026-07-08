@@ -1,4 +1,8 @@
 # Presentations
+
+* 14.10.2026 - [Open-source image analysis on massive 3D images using meshes and Blender](https://github.com/MontpellierRessourcesImagerie/presentations/releases/download/v1.6/flash-tuto-mifobio-2025.pdf)
+* 13.10.2026 - Segmentation and analysis of filament like structures: [part 1](https://github.com/MontpellierRessourcesImagerie/presentations/releases/download/v1.6/presentation_part1.pdf) and [part 2](https://github.com/MontpellierRessourcesImagerie/presentations/releases/download/v1.6/unet-metrics-measures.pdf)
+* 26.05.2025 - [Segmentation & classification of filamentous structures applied to microglia (LIRMM doctoral school)](https://github.com/MontpellierRessourcesImagerie/presentations/releases/download/v1.6/diapos-lirmm.pdf)
 * 06.12.2024 - [Spots-in-yeasts (ft. Kseniya Samardak & Morgane Auboiron)](https://github.com/MontpellierRessourcesImagerie/presentations/releases/download/v1.5/MRI-day.spots-in-yeasts.pdf)
 * 02.12.2024 - [Segmentation & classification of filamentous structures applied to microglia](https://github.com/MontpellierRessourcesImagerie/presentations/releases/download/v1.5/diapos-crbm.pdf)
 * 24.10.2024 - [Open-source bio-image analysis using surface meshes](https://github.com/MontpellierRessourcesImagerie/presentations/releases/download/v1.4/diapos-i2k-2024.pdf)
